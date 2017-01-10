@@ -3,8 +3,8 @@ A showcase of Spring Boot with RESTful APIs, Guava Cache and SSL.
 
 ## Complete Reference
 #### Basic
-1. customer banner
-2. properties
+1. Customize banner
+2. Properties
 
 #### RESTful APIs
 1. Swagger-UI
@@ -18,3 +18,4 @@ A showcase of Spring Boot with RESTful APIs, Guava Cache and SSL.
 1. Spring Data JPA(Hibernate)
 2. PostgreSQL
 
+See [more](http://zhiyuanma.github.io/java/2016/12/12/java-string-utils/)
